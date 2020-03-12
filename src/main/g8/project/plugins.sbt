@@ -1,2 +1,3 @@
-addSbtPlugin("org.scala-js"     % "sbt-scalajs"       % "0.6.19")
-addSbtPlugin("org.wartremover"  % "sbt-wartremover"   % "2.1.1")
+addSbtPlugin("org.scala-js"         % "sbt-scalajs"                 % "1.0.1")
+addSbtPlugin("org.wartremover"      % "sbt-wartremover"             % "2.4.5")
+addSbtPlugin("org.portable-scala"   % "sbt-scalajs-crossproject"    % "1.0.0")
